@@ -3,7 +3,7 @@
 
 
 # Reason behind creating simple-cal
-  A Demo application to check the deployment of static web application in real time servers (only for study purpose).
+  A Demo application to check the deployment of static (React)web application in real time servers (only for study purpose).
 
 # visit Application
   https://simpleeecal.netlify.app/
